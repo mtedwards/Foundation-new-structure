@@ -1,0 +1,22 @@
+/* 
+Theme Name: Emptyhead Foundation New Structure
+Theme URI: http://www.emptyhead
+Description: Foundation
+Author: Matt
+Author URI: 
+Version: 3.0
+License: MIT License
+License URI: http://www.opensource.org/licenses/mit-license.php
+*/
+
+@import url("stylesheets/globals.css");
+@import url("stylesheets/typography.css");
+@import url("stylesheets/grid.css");
+@import url("stylesheets/ui.css");
+@import url("stylesheets/forms.css");
+@import url("stylesheets/orbit.css");
+@import url("stylesheets/reveal.css");
+@import url("stylesheets/wordpress.css");
+@import url("stylesheets/mobile.css");
+@import url("stylesheets/app.css");
+[if lt IE 9] @import url("stylesheets/ie.css");
