@@ -316,4 +316,5 @@ wp_enqueue_script('customforms', get_template_directory_uri() . '/javascripts/jq
 wp_enqueue_script('tooltips', get_template_directory_uri() . '/javascripts/jquery.tooltips.js', 'jquery', false, true);
 wp_enqueue_script('app', get_template_directory_uri() . '/javascripts/app.js', 'jquery', false, true);
 wp_enqueue_script('prefixfree', get_template_directory_uri() . '/javascripts/prefixfree.js', false, false, false);
+wp_enqueue_script('emptyhead', get_template_directory_uri() . '/javascripts/emptyhead.js', 'jquery', false, true);
 ?>

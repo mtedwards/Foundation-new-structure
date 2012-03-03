@@ -88,8 +88,7 @@ jQuery(document).ready(function ($) {
       $(this).children('.flyout').hide();
     })
   }
-
-
+	
 	/* DISABLED BUTTONS ------------- */
 	/* Gives elements with a class of 'disabled' a return: false; */
   
